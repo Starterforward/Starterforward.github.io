@@ -126,7 +126,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "starter,forward,Starter,Forward,starterforward,Starterforward,StarterForward,StarterFORWARD,starter forward,Starter forward,Starter Forward,Starter FORWARD,starter-forward,Starter-forward,Starter-Forward,Starter-FORWARD"
+#keywords: "starter,forward,Starter,Forward,starterforward,Starterforward,StarterForward,StarterFORWARD,starter forward,Starter forward,Starter Forward,Starter FORWARD,starter-forward,Starter-forward,Starter-Forward,Starter-FORWARD"
 
 ######################################
 # --- Colours / background image --- #
@@ -134,17 +134,17 @@ keywords: "starter,forward,Starter,Forward,starterforward,Starterforward,Starter
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#FFC100"
-navbar-text-col: "#404040"
-navbar-border-col: "#222222"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#F7F9FC"
+text-col: "#2C3E50"
+link-col: "#3498DB"
+hover-col: "#2980B9"
+navbar-col: "#34495E"
+navbar-text-col: "#ECF0F1"
+navbar-border-col: "#2C3E50"
+footer-col: "#2C3E50"
+footer-text-col: "#BDC3C7"
+footer-link-col: "#ECF0F1"
+footer-hover-col: "#3498DB"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
